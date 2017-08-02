@@ -25,6 +25,7 @@ MyEclipse上的svn插件似乎不能这么耍，然后我就去下载TortoiseSVN
 你可以直接找到别人的代码然后点Clone or download然后点DownloadZip下载别人的文件和
 代码
 ![img1.PNG](https://github.com/Wengzd/Javatest/blob/master/img1.PNG)
+
 当然你也可以用svn了，如果你下载了乌龟，同理是右键svn检出，然后复制url，需要注意
 的是如果你选择的是文件夹或者文件，观察url的路径
 例子：https://github.com/XXX/XXX/tree/master/XXX 这个是你选择文件夹的url，你需要
