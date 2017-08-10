@@ -11,7 +11,7 @@ public class demo1 {
 		System.out.println("test");
 		System.out.println("test2");
 		System.out.println("test3");
-		System.out.println("commits test");
+		System.out.println("commit test");
 	}
 
 }
