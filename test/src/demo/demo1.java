@@ -13,6 +13,7 @@ public class demo1 {
 		System.out.println("test3");
 		System.out.println("commit test");
 		System.out.println("commit test2");
+		System.out.println("github test");
 	}
 
 }
