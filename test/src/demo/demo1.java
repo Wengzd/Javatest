@@ -14,7 +14,6 @@ public class demo1 {
 		System.out.println("commit test");
 		System.out.println("commit test2");
 		System.out.println("github test");
-		System.out.println("i see you wrote github test");
 	}
 
 }
