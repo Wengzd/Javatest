@@ -11,45 +11,6 @@
 右上角有一个+号，点那个+号，然后点new repository然后就是下面这个页面一步一步操作
 ![img2.PNG](https://github.com/Wengzd/Javatest/blob/master/img2.PNG)
 
-## 怎样使用svn进行版本控制
-我发现这个网站居然支持svn了，然后我到MyEclipse上去提交项目去了，然后好像没有卵用
-MyEclipse上的svn插件似乎不能这么耍，然后我就去下载TortoiseSVN去玩小乌龟了，下载
-安装不用我说明吧 [点击这里下载](https://tortoisesvn.net/downloads.html)
-下面还有汉化补丁，一起下了吧。现在你应该创建一个代码仓库了，然后在你的计算机上选择
-一个路径，右键check out也就是svn检出，路径写你仓库的url就行了。然后你会发现你已经
-检出了reademe的那个文件了，在此文件夹更新添加删除操作后右键提交，填写你的github账户
-和密码就能将你所做的更改提交到你的代码仓库，也可以更新获得你代码仓库的最新版本，当然
-也可以找以前的历史版本.
-
-## 怎样下载别人的代码和文件
-你可以直接找到别人的代码然后点Clone or download然后点DownloadZip下载别人的文件和
-代码
-![img1.PNG](https://github.com/Wengzd/Javatest/blob/master/img1.PNG)
-
-当然你也可以用svn了，如果你下载了乌龟，同理是右键svn检出，然后复制url，需要注意
-的是如果你选择的是文件夹或者文件，观察url的路径
-例子：https://github.com/XXX/XXX/tree/master/XXX 这个是你选择文件夹的url，你需要
-将/tree/master/改成/trunk/才能进行检出，同理你如果选择的是一个文件
-例子：https://github.com/XXX/XXX/blob/master/XXX.XXX 你需要将/blob/master/替换
-成/trunk/
-
-## 收藏别人的代码仓库
-如下图点击star即可收藏
-![img3.PNG](https://github.com/Wengzd/Javatest/blob/master/img3.PNG)
-
 ## 标题
-### Pull requests
-这个百度翻译是“拉需求”，看到这个翻译我在想，啥玩意啊，这个的功能其实是让你
-当老师，在看或者用别人的代码时发现错误或者不足的地方你可以在他的代码仓库里面点击右上角的fork
-然后他的代码就跑到你的代码仓库里面去了，是一个分支，你可以在你的代码仓库里面把这个代码检出出来
-修改或者你是个不用IDE的大牛直接就在网站上对着代码噼里啪啦了，然后改完之后
-点击compare&pull requests，写一下注释然后提交，作者觉得可以就把你改的更新上去了，然后
-右上角的贡献者里面也有你的名字了，牛p。
-### Issues
-这个就是问题了，在你接下来要修的bug或者做的内容会显示在这里面一个版本一个版本的下去。
-### Marketplace
-好像是个什么什么市场，估计是要收你钱我暂时没用这个玩意
-### Gist
-这个功能挺牛p，但是打不开估计要翻墙，百度了一下了理解为，你黏贴一些数据或者代码上去，点击完成
-后会自动为你的数据赋一个url，然后别人通过这个url可以访问到你的这些数据，也可以fork啊什么的。
+[点击这里下载](https://tortoisesvn.net/downloads.html)
 
