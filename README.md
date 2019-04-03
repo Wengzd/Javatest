@@ -8,7 +8,6 @@
 文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本
 
 ## 怎样创建代码仓库
-右上角有一个+号，点那个+号，然后点new repository然后就是下面这个页面一步一步操作
 ![img2.PNG](https://github.com/Wengzd/Javatest/blob/master/img2.PNG)
 
 ## SVN
